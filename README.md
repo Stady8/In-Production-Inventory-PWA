@@ -2,7 +2,7 @@
 
 **About** 
 
-Possible inventory system for a local fire department. The website is a progressive web app which allows it to work on a laptop or saved as an app on a mobile deivce.
+Possible inventory system for a local fire department. The website is a progressive web app which allows it to work on a laptop or saved as an web app on a mobile deivce.
 
 **Front End** 
 
