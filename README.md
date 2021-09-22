@@ -8,7 +8,7 @@ Possible inventory system for a local fire department. The website is a progress
 
 * HTML
 * CSS
-* JS
+* JavaScript
 * View engine - EJS
 
 <br>
