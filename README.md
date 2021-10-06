@@ -27,7 +27,7 @@ Possible inventory system for a local fire department. The website is a progress
 <br>
 
 
-## Updated 10/5/2021 - Changed mobile design to be more user-friendly, added responding tab and a way to track items.
+## Update 10/5/2021 - Changed mobile design to be more user-friendly, added responding tab and a way to track items.
 <br>
 <img src="https://user-images.githubusercontent.com/47371354/136125606-aa9980d0-2b34-46a7-9ba7-bf6f0a60cb62.PNG" width="600" height="1100">
 <br>
