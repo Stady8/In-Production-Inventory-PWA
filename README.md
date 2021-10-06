@@ -38,7 +38,8 @@ Possible inventory system for a local fire department. The website is a progress
 <img src="https://user-images.githubusercontent.com/47371354/136125640-2c1e840f-8380-4be8-97fc-59d9c9538d24.PNG" width="600" height="1100">
 <br>
 <br>
-## Photos of app on iPhone
+
+## Original design of web app on mobile.
 
 <br>
 <img src="https://user-images.githubusercontent.com/47371354/132382539-8e4dd057-3938-4caa-bbcf-236834a59899.PNG" width="600" height="1100">
