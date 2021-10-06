@@ -18,7 +18,7 @@ Possible inventory system for a local fire department. The website is a progress
 * Ngnix
 * Node.js
 * Express.js 
-* Sql
+* SQL
 
 * Digital Ocean Server - CentOS
 * Database - PostgreSQL
