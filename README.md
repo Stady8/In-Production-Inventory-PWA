@@ -28,13 +28,14 @@ Possible inventory system for a local fire department. The website is a progress
 
 
 ## Updated 10/5/2021 - Changed mobile design to be more user-friendly, added responding tab and a way to track items.
-![IMG_4174 2](https://user-images.githubusercontent.com/47371354/136125606-aa9980d0-2b34-46a7-9ba7-bf6f0a60cb62.PNG)
 <br>
-![IMG_4175 2](https://user-images.githubusercontent.com/47371354/136125617-7bce11e4-9981-4c6a-b3e3-c325e35ce728.PNG)
+<img src="https://user-images.githubusercontent.com/47371354/136125606-aa9980d0-2b34-46a7-9ba7-bf6f0a60cb62.PNG" width="600" height="1100">
 <br>
-![IMG_4177 2](https://user-images.githubusercontent.com/47371354/136125631-c358c703-c53e-4f24-9cb3-9d96c606d2dc.PNG)
+<img src="https://user-images.githubusercontent.com/47371354/136125617-7bce11e4-9981-4c6a-b3e3-c325e35ce728.PNG" width="600" height="1100">
 <br>
-![IMG_4178](https://user-images.githubusercontent.com/47371354/136125640-2c1e840f-8380-4be8-97fc-59d9c9538d24.PNG)
+<img src="https://user-images.githubusercontent.com/47371354/136125631-c358c703-c53e-4f24-9cb3-9d96c606d2dc.PNG" width="600" height="1100">
+<br>
+<img src="https://user-images.githubusercontent.com/47371354/136125640-2c1e840f-8380-4be8-97fc-59d9c9538d24.PNG" width="600" height="1100">
 <br>
 <br>
 ## Photos of app on iPhone
