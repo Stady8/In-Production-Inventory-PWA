@@ -1,0 +1,137 @@
+<html>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#ffffff">
+ <link rel='manifest' href='./manifest.json'>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.2.7/js/swiper.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.2.7/css/swiper.min.css" rel="stylesheet">
+
+
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/responding.css">
+<script src="js/main.js"></script>
+
+</head>
+
+
+
+<body>
+<div class="navbar">
+        <a href="/">Home</a>
+        <a class="active" href="/responding">Responding</a>
+        <a href="/apparatus">Apparatus</a>
+        <a href="/inventory">Inventory</a>
+</div>
+
+
+
+<div id="topbar"  class="topbar">
+    <div id="topbarName" class="topbarName"><b>Signed In</b></div>
+        <div class="itemTrackingAdd"> +  </div>
+        <div class="itemTrackingScan"> [ ] </div>
+</div>
+
+
+
+
+
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide" >
+         <div class="pageHeader" >
+        <b>Signed In</b>
+    </div>
+
+    	
+  <%
+    	if(nowResponding.length!=0){
+        var i=1;
+
+        nowResponding.forEach(function(data){
+        %>
+	<div class="personalResponding" >
+                <div class="nameHolder" >
+                   <div class="name" > <%= data.accountname %></div>
+                </div>
+                <div class="timeHolder" >
+                        <div class="timeLabel" >  Called At </div>
+                        <div class="time" ><%= data.respondingtime %></div>
+                </div>
+        </div>
+
+          <%  i++; }) %>
+        <% } else{ %>
+
+          <div class="personalRespondingEmpty"></div>
+        <% } %>
+
+         <div class="bottomHolderDiv" >
+                <div class="respondBtnDiv" >
+                
+                        <form action="/respondNow" method="POST">
+                            <input name="accountName" type="hidden" value="<%=user%>">
+                        <button type="submit" class="respondBtn">Sign In</button>
+                   </form>
+
+                </div>
+         </div>
+        </div>
+
+        <div class="swiper-slide" >
+         <div class="pageHeader" >
+             <b>Item Log</b>
+          </div>
+
+          <div class="itemTrackingHolder">
+                  <div class="itemTrackingBtns">
+                       <button type="submit" class="yourItemsBtn">Your Items</button>
+                  </div>
+
+                 <div class="itemsTracked">
+                     <div class="resultsHeaderText">Items</div>
+                       <div class="itemsTrackedDiv">
+                        <ul class="mySection">
+                          <li>
+                            <input type="checkbox" id="FlareItemHolder" name="itemId" value="1" class="hideSearch">
+                            <div class="itemName">Flare</div>
+                            <div class="itemAmount">1</div>
+                          </li>
+
+                          <li>
+                            <input type="checkbox" id="FlareItemHolder" name="itemId" value="1" class="hideSearch">
+                            <div class="itemName">Tech Bag</div>
+                          </li>
+
+                        </ul>
+                       </div>
+
+
+                 </div>
+
+
+          </div>
+        </div>
+        
+  
+    </div>
+
+    <div class="swiper-pagination"></div>
+</div>
+
+</div>
+
+
+<script src="js/responding.js"></script>
+
+<script src="js/main.js"></script>
+<script src="js/pwa.js"></script>
+</body>
+</html>
+
