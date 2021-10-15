@@ -2,7 +2,8 @@
 
 **About** 
 <br>
-In the process of switching the website to use react and node
+<br>
+In the process of switching the website to use reactjs and node
 <br>
 <br>
 Possible inventory system for a local fire department. The website is a progressive web app which allows it to work on a laptop or saved as an web app on a mobile deivce. I've added two ejs files for a preview of code.
