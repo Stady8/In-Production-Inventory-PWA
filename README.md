@@ -1,5 +1,32 @@
-# Inventory-Website(In Development)
+# Update as of 10/18/2021
+Decided to completely change the project to better suit a full stack development process.
 
+**Development tools**
+* Visusal Studio Code
+* Postman 
+* GitHub
+* Digital Ocean Server - Ubuntu 
+ 
+**Front End** 
+* React
+
+**Back End** 
+* Nginx
+* Pm2
+*  NodeJs
+    * Express
+    * Dotenv
+*  PostgreSQL
+
+**Deployment** 
+* Code is pushed from visual studo code to GitHub.
+* GitHub has runners that automatically push to server and build project to reflect update code on GitHub.
+
+
+
+<br><br>
+
+# Inventory-Website(In Development)
 **About** 
 <br>
 <br>
