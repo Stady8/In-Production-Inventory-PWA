@@ -19,8 +19,8 @@ Decided to completely change the project to better suit a full stack development
 *  PostgreSQL
 
 **Deployment** 
-* Code is pushed from visual studo code to GitHub.
-* GitHub has runners that automatically push to server and build project to reflect update code on GitHub.
+* Code is pushed from visual studo code to GitHub(Development Brach and Deployment Branch).
+* GitHub has runners attached to the Deployment Branch that automatically push to server and build project to reflect update code on GitHub.
 
 
 
