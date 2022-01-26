@@ -1,3 +1,17 @@
+# Update as of 1/26/2022
+Began the testing stage of the web app 
+
+**Major changes**
+* Added Firebase Auth for user authentication 
+* Created user permissions Admin/Advance/Basic 
+* Added the ability to use QR scanning / creating QR codes for items or compartments 
+* Fixed design of the entire app / responsiveness for mobile vs web
+* Added the ability to create reaccuring checklist on items or a apparatus
+* All api routes work and now is in testing stages before use in the fire department
+
+
+
+
 # Update as of 10/18/2021
 Decided to completely change the project to better suit a full stack development process.
 
