@@ -22,7 +22,7 @@ Decided to completely change the project to better suit a full stack development
 * Digital Ocean Server - Ubuntu 
  
 **Front End** 
-* React
+* React Js
 
 **Back End** 
 * Nginx
