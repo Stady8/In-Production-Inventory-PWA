@@ -1,7 +1,6 @@
 # Update as of 2/7/2022
 Some updated photos of the app
 
-![IMG_5107](https://user-images.githubusercontent.com/47371354/152837918-c6910f51-24c9-44f4-9566-822dfd6559a4.PNG)
 <br>
 <img src="https://user-images.githubusercontent.com/47371354/152837918-c6910f51-24c9-44f4-9566-822dfd6559a4.PNG" width="600" height="1100">
 <br>
