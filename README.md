@@ -1,3 +1,12 @@
+# Update as of 2/7/2022
+Some updated photos of the app
+
+![IMG_5107](https://user-images.githubusercontent.com/47371354/152837918-c6910f51-24c9-44f4-9566-822dfd6559a4.PNG)
+![IMG_5108](https://user-images.githubusercontent.com/47371354/152837925-56359730-c7ee-40b2-8479-81d759c79f64.PNG)
+![IMG_5110](https://user-images.githubusercontent.com/47371354/152837935-631394ba-7366-4699-a453-0171d8b716ea.PNG)
+![IMG_5111](https://user-images.githubusercontent.com/47371354/152837936-8a7fc0c5-837e-4648-9b88-ab34f724e98c.PNG)
+
+
 # Update as of 1/26/2022
 Began the testing stage of the web app 
 
@@ -8,8 +17,6 @@ Began the testing stage of the web app
 * Fixed design of the entire app / responsiveness for mobile vs web
 * Added the ability to create reaccuring checklist on items or a apparatus
 * All api routes work and now is in testing stages before use in the fire department
-
-
 
 
 # Update as of 10/18/2021
