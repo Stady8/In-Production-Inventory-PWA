@@ -32,8 +32,7 @@ This program allows for a multitude of things. One of them being able to track i
 * Code is pushed from visual studo code to GitHub(Development Brach and Deployment Branch).
 * GitHub has runners attached to the Deployment Branch that automatically push to server and build project to reflect update code on GitHub.
 
-
-
+<br><br>
 
 # Update as of 2/7/2022
 Some updated photos of the app
@@ -59,14 +58,14 @@ Began the testing stage of the web app
 * Added the ability to create reaccuring checklist on items or a apparatus
 * All api routes work and now is in testing stages before use in the fire department
 
-
+<br><br>
 # Update as of 10/18/2021
 Decided to completely change the project to better suit a full stack development process.
 
 
-<br>
 
 
+<br><br>
 ## Update 10/5/2021 - Changed mobile design to be more user-friendly, added responding tab and a way to track items, working on adding service worker for the app to work offline.
 
 <br>
