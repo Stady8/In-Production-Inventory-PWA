@@ -1,3 +1,40 @@
+# Inventory-Website(In Testing)
+**About** 
+<br>
+<br>
+This program allows for a multitude of things. One of them being able to track inventory items including information about the item and their location of different apparatuses. Inventory can be labeled with QR codes and scanned which allows users to quickly find information about the item and its’ location. It also allows for the tracking of events such as training and incidents. If an item is needed in a training session, or at an incident, it can be scanned with the QR code and linked to that specific event. This creates an inventory usage log and allows for tracking of members' attendance as well as what items are lended to members. Another notable functionality of the app is the ability to create a checklist for different apparatuses and inventory items. Members are then able to complete the monthly checklist and send email alerts to specific individuals when something needs to be repaired. 
+<br>
+<br>
+
+**Development tools**
+* Visusal Studio Code
+* Postman 
+* GitHub
+* Digital Ocean Server - CentOS 
+ 
+**Front End** 
+* React Js
+* HTML 
+* CSS
+
+**Back End** 
+* Nginx
+* Pm2
+* NodeJs
+    * Express
+    * Dotenv
+    * firebase
+    * nodemon
+    * cors
+*  PostgreSQL
+
+**Deployment** 
+* Code is pushed from visual studo code to GitHub(Development Brach and Deployment Branch).
+* GitHub has runners attached to the Deployment Branch that automatically push to server and build project to reflect update code on GitHub.
+
+
+
+
 # Update as of 2/7/2022
 Some updated photos of the app
 
@@ -25,60 +62,6 @@ Began the testing stage of the web app
 
 # Update as of 10/18/2021
 Decided to completely change the project to better suit a full stack development process.
-
-**Development tools**
-* Visusal Studio Code
-* Postman 
-* GitHub
-* Digital Ocean Server - Ubuntu 
- 
-**Front End** 
-* React Js
-
-**Back End** 
-* Nginx
-* Pm2
-*  NodeJs
-    * Express
-    * Dotenv
-*  PostgreSQL
-
-**Deployment** 
-* Code is pushed from visual studo code to GitHub(Development Brach and Deployment Branch).
-* GitHub has runners attached to the Deployment Branch that automatically push to server and build project to reflect update code on GitHub.
-
-
-
-<br><br>
-
-# Inventory-Website(In Development)
-**About** 
-<br>
-<br>
-In the process of switching the website to use reactjs and node
-<br>
-<br>
-Possible inventory system for a local fire department. The website is a progressive web app which allows it to work on a laptop or saved as an web app on a mobile deivce. I've added two ejs files for a preview of code.
-
-**Front End** 
-
-* HTML
-* CSS
-* JavaScript
-* View engine - EJS
-
-<br>
-
-**Back End** 
-
-* Ngnix
-* Node.js
-* Express.js 
-* SQL
-
-* Digital Ocean Server - CentOS
-* Database - PostgreSQL
-
 
 
 <br>
