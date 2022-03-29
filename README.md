@@ -36,7 +36,7 @@ This program allows for a multitude of things. One of them being able to track i
 
 **Deployment** 
 * Code is pushed from visual studo code to GitHub(Development Brach and Deployment Branch).
-* GitHub has runners attached to the Deployment Branch that automatically push to server and build project to reflect update code on GitHub.
+* GitHub has runners attached to the Deployment Branch that automatically push to server and build project to reflect updated code on GitHub.
 
 <br><br>
 
