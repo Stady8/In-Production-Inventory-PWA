@@ -15,6 +15,7 @@ This program allows for a multitude of things. One of them being able to track i
 **Front End** 
 * React Js
 * HTML 
+* JavaScript
 * CSS
 
 **Back End** 
